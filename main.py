@@ -1,3 +1,4 @@
+# Ing. Mohammad Almahameed
 import tkinter as tk
 from tkinter import Label, Frame, Menu
 import threading
